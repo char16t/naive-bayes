@@ -4,7 +4,7 @@ Naive Bayes classifier for Clojure.
 
 ## Usage
 
-```
+```clojure
 (defn long-str [& strings]
   (clojure.string/join "\n" strings))
 
