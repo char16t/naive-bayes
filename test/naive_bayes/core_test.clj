@@ -34,6 +34,6 @@
   (train features))
 
 (deftest a-test
-  (testing "FIXME, I fail."
+  (testing "Main functional test"
     (is (= (classify classifier (get-features "Агафья")))
            "Женский")))
