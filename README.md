@@ -2,7 +2,7 @@
 
 Naive Bayes classifier for Clojure.
 
-## Usage
+## Usage example
 
 ```clojure
 (defn long-str [& strings]
@@ -43,7 +43,4 @@ Naive Bayes classifier for Clojure.
 
 ## License
 
-Copyright © 2018 Valeriy Manenkov
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+MIT
